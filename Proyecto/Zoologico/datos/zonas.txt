@@ -1,0 +1,16 @@
+6
+1
+Tropical
+500
+2
+Artica
+750
+3
+Desertica
+840
+4
+Jungla
+541
+5
+Montañosa
+978

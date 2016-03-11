@@ -1,0 +1,19 @@
+5
+1
+Perro
+Canis Lupus
+Canino
+1,6,8,
+5,4,1,
+2
+Gato
+Felis Catus
+Felino
+8,5,2,1,
+5,2,1,
+4
+Perico
+Periquis
+Perico Australiano
+1,3,
+5,1,
